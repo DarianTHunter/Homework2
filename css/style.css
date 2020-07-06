@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: black;
+    font: 40px;
+    color: blueviolet;
+}
+
+p{
+    font-size: 40px;
+    color: blueviolet;
+    font-family:'Notable', sans-serif;
+}
+
+.p2{
+    font-size: 40px;
+    color: blueviolet;
+    font-family:'Notable', sans-serif;
+}
