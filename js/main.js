@@ -32,7 +32,7 @@ $(document).ready(function() {
 
 	$(".wrapper.style1").hover(function() {
 
-		 $(".image.fit").fadeIn("slow");
+		 $("#PortfolioP").fadeIn("slow");
 		 
 		 console.log("fade is working")
 
